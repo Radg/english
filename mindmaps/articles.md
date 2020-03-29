@@ -50,7 +50,7 @@
 - I get back from school at 2p.m.
 
 #### Before meals, days, months
-- I never have breakfask on Sunday
+- I never have breakfast on Sunday
 
 #### Before _next/last_ + days
 - See you next Monday!
